@@ -1,5 +1,7 @@
 # Introduction to Explainable Deep Learning on Supercomputers
 
+![Course](banner.png)
+
 ## Table of Contents
 1. [Description](#description)
 2. [Information](#information)
