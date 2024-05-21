@@ -4,7 +4,8 @@
 1. [Description](#description)
 2. [Information](#information)
 3. [Subjects](#subjects)
-4. [Certificate](#certificate)
+4. [Requirements and Setup](#requirements)
+5. [Certificate](#certificate)
 
 <a name="descripton"></a>
 ## Description
@@ -56,6 +57,24 @@ The subjects covered during this course are the following:
     + Tutorial_Attention_maps_for_text
     + Tutorial_VIT
     + Tutorial_Attention_maps_for_images
+
+<a name="requirements"></a>
+## Requirements and Setup
+
+It is possible to either create an environment and install all the necessary packages locally (using the requirements.txt file) or to execute the notebooks on the browser, by clicking the 'Open in Colab' button. This second option doesn't require any further installation, but the user must have access to a Google account.
+
+If you prefer to run the notebooks on your device, create a virtual environment using the requirements.txt file:
+```
+conda create -n XAI-Course-2024 python=3.9
+conda activate XAI-Course-2024
+pip install -r requirements.txt
+```
+
+Once your environment is created, clone `Juelich-2024` brach branch of the repo using the following command:
+
+```
+git clone --branch Juelich-2024 https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials.git
+```
 
 <a name="certificate"></a>
 ## Certificate
