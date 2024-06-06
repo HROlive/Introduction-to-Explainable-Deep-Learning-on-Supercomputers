@@ -1,6 +1,6 @@
 # Introduction to Explainable Deep Learning on Supercomputers
 
-![Course](banner.png)
+![Course](images/banner.png)
 
 ## Table of Contents
 1. [Description](#description)
@@ -83,4 +83,4 @@ git clone --branch Juelich-2024 https://github.com/HelmholtzAI-Consultants-Munic
 
 The certificate for the course can be found below:
 
-["Introduction to Explainable Deep Learning on Supercomputers" - Jülich Supercomputing Centre (JSC)]() (Issued On: May 2024)
+["Introduction to Explainable Deep Learning on Supercomputers" - Jülich Supercomputing Centre (JSC)](https://github.com/HROlive/Introduction-to-Explainable-Deep-Learning-on-Supercomputers/blob/main/images/certificate.pdf) (Issued On: May 2024)
